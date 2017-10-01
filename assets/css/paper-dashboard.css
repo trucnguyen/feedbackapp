@@ -16,7 +16,7 @@
 /*      light colors - used for select dropdown         */
 
 .green {
-  background-color: #8EF3C5;
+  background-color: #ccefbd;
 }
 
 .yellow {
@@ -24,11 +24,11 @@
 }
 
 .red {
-  background-color: #FF8F5E;
+  background-color: #f3cccc;
 }
 
 .alert.green {
-  background-color: #8EF3C5;
+  background-color: #ccefbd;
   color:#333;
 }
 
@@ -38,7 +38,7 @@
 }
 
 .alert.red {
-  background-color: #FF8F5E;
+  background-color: #f3cccc;
   color:#333; 
 }
 
