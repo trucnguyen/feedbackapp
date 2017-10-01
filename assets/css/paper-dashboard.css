@@ -14,6 +14,34 @@
  
  */
 /*      light colors - used for select dropdown         */
+
+.green {
+  background-color: #ccefbd;
+}
+
+.yellow {
+  background-color: #FFE28C;
+}
+
+.red {
+  background-color: #f3cccc;
+}
+
+.alert.green {
+  background-color: #ccefbd;
+  color:#333;
+}
+
+.alert.yellow {
+  background-color: #FFE28C;
+  color:#333;
+}
+
+.alert.red {
+  background-color: #f3cccc;
+  color:#333; 
+}
+
 .ct-blue {
   stroke: #7A9E9F !important; }
 
