@@ -245,7 +245,11 @@
       .typetype(review[i], {
       callback: function() {
       	$('#annareview').highlightWithinTextarea({
-      		highlight: 'Anna'
+        highlight: [
+        {
+      		highlight: 'did a great job',
+          className: 'yellow'
+        }]
      	 })
     	}
   	})
